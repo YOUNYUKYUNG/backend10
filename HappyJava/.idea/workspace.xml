@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02f698f8-c5fd-43e0-9ef9-56d4fa8335f8" name="Changes" comment="first commit&#10;&#10;:wq">
+      <change afterPath="$PROJECT_DIR$/../.idea/backend_school_10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/baby02/AgeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/baby02/AgeChecker2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/baby02/GradeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/baby02/MonthChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/baby02/MonthChecker2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day02/BitOperatorExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day02/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day02/BooleanTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day02/CharExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day02/ForExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day02/IntPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day02/NumberExam01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day02/OpExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day02/enumtype/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day02/enumtype/Today.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day02/enumtype/TodayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day03/DoWhileExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day03/Gugudan1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day03/Gugudan2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day03/IfExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day03/LabelExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day03/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day03/StringExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day03/TemperatureConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day03/WhileExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day03/susu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day04/Array03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day04/Array04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day04/Array06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day04/Array07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day04/Array08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day04/Array12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day04/ArrayExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day04/ItemForArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0409/BeverageRecipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0409/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0409/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0409/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0409/StringExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0409/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0409/TemplateMethodPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0409/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0411/BankApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0411/InsufficientFundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0412/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0412/EventProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0412/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0412/GreeterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0412/LocalOuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0412/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0412/NetworkDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0412/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0412/Smartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0412/SmartphoneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0412/StaticOuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/CollectionExam01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/CollectionExam03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/ContainerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/DataWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/Exam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/GenericMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/GenericMethodExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/GenericMethodExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/GenericPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/IntegerContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/NonGenericPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/NumberProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/StringContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/WildcardExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/WildcardVsGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/box/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/box/ColoredBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/box/SpecialBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0415/day10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0416/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0416/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0416/EmployeeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0416/IteratorExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0416/MapExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0416/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0416/PhoneBookExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0416/PopulationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0416/day11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0417/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0417/BufferedExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0417/ByteStreamExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0417/ByteStreamExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0417/CharStreamExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0417/DataInExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0417/DataOutExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0417/DataTypesIOExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0417/FileExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0417/IOExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0417/IOExam3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0417/ObjectStreamExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0417/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0417/PhoneExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0417/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0417/SystemIOExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0417/WWWRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0418/JoinExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0418/Q1/CounterApp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0418/Q1/IncrementCounter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0418/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0418/RobotMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0418/RobotPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0418/RunnableExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0418/RunnableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0418/ThreadExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0418/ThreadInterruptExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0418/ThreadJoinExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0418/WaitNotifyAllExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0418/WaitNotifyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0418/exam/CounterApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0418/exam/FileReadWriteApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0422/EchoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0422/EchoClientExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0422/EchoClientExam11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0422/EchoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0422/EchoServerExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0422/EchoServerExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0422/EchoThreadServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0422/EchoThreadServer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0422/NSLookupLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0423/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0423/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0423/NSLookupLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0423/UDPEchoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0423/UDPEchoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0423/UDPTimeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0423/UDPTimeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0423/WinChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0424/ConstructTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0424/FinalVariableExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0424/IntBibaryOperationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0424/IntBinaryOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0424/LambdaExam3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0424/LambdaExam4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0424/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0424/MyFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0424/MyFunctionalInterface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0424/MyFunctionalInterface2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0424/MyFunctionalInterface3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0424/MyFunctionalInterface3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0424/MyFunctionalInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0424/RambdaExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0424/RambdaExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0424/p1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0425/AggregateStreamExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0425/GroupingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0425/MatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0425/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0425/ReduceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0425/StreamExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0425/StreamExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0425/StreamExam3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0425/StreamExam4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0425/StreamExam5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0425/StreamExam6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0426/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0426/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day0426/ServerMessageReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day06/CalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day06/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day10/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day10/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day10/DiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day10/LottoMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day10/LottoUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day10/main/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day10/util/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day11/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day11/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day11/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day11/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day11/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day11/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day11/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day11/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day11/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyJava/src/day11/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0426/HappyJava/src/day0426/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0426/HappyJava/src/day0426/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0426/HappyJava/src/day0426/ServerMessageReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.gradle/8.6/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.gradle/8.6/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.gradle/8.6/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.gradle/8.6/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.gradle/8.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.gradle/8.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.gradle/8.6/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.idea/modules/algorithmTest.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/out/production/classes/ch01/InputExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/out/production/classes/ch01/MaxValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/out/production/classes/ch01/Multi99Table.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/out/production/classes/ch01/Pen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/out/production/classes/ch01/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/out/production/classes/ch02/ConpareArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/out/production/classes/ch02/DuplicateArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/out/production/classes/ch02/InvertArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/out/production/classes/ch02/MaxOfScores.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/out/production/classes/ch02/RadixConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/out/production/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/out/test/classes/ch01/MaxValueTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/out/test/classes/ch01/PenTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/src/main/java/ch01/InputExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/src/main/java/ch01/MaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/src/main/java/ch01/Multi99Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/src/main/java/ch01/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/src/main/java/ch01/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/src/main/java/ch02/ConpareArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/src/main/java/ch02/DuplicateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/src/main/java/ch02/EfficientPrimeFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/src/main/java/ch02/InvertArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/src/main/java/ch02/ListPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/src/main/java/ch02/MaxOfScores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/src/main/java/ch02/RadixConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/src/main/java/ch04/MethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/src/main/java/ch04/RecursiveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/src/test/java/ch01/MaxValueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmTest/src/test/java/ch01/PenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/.idea/homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/aa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/complete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework/src/main/java/org/example/ch01/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework/src/main/java/org/example/ch01/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework/src/main/java/org/example/ch01/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/image/clone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/image/createFork.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/image/fork.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/image/fork2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/image/pullRequest1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/image/pullRequest2.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/day0426" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;assignee&quot;: &quot;YOUNYUKYUNG&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3975611f-9d33-4d45-853f-f7799086c7ca" />
+        <option name="url" value="https://github.com/YOUNYUKYUNG/backend.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/day02/Book.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day04/Array03.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day04/Array04.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day04/Array06.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day04/Array07.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day04/Array08.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day04/Array12.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day04/ArrayExam1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day04/ItemForArray.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day0412/Book.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day0412/NetworkDemo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day10/Ball.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day10/util/Calculator.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2f7ALYp9au3jRBDqN9UwvBekEtH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AggregateStreamExam.executor": "Run",
+    "Application.BufferedExam.executor": "Run",
+    "Application.ByteStreamExam.executor": "Run",
+    "Application.ByteStreamExam2.executor": "Run",
+    "Application.ChatClient.executor": "Run",
+    "Application.ChatServer.executor": "Run",
+    "Application.CounterApp1.executor": "Run",
+    "Application.DataInExam.executor": "Run",
+    "Application.DataOutExam.executor": "Run",
+    "Application.DataTypesIOExample.executor": "Run",
+    "Application.EchoClient.executor": "Run",
+    "Application.EchoClientExam.executor": "Run",
+    "Application.EchoClientExam11.executor": "Run",
+    "Application.EchoServer.executor": "Run",
+    "Application.EchoServerExam.executor": "Run",
+    "Application.EchoServerExam2.executor": "Run",
+    "Application.EchoThreadServer.executor": "Run",
+    "Application.EchoThreadServer2.executor": "Run",
+    "Application.EmployeeManagerDemo.executor": "Run",
+    "Application.EmployeeManagerDemoImpl.executor": "Run",
+    "Application.Exam.executor": "Run",
+    "Application.GroupingTest.executor": "Debug",
+    "Application.LambdaExam3.executor": "Run",
+    "Application.LambdaExam4.executor": "Run",
+    "Application.MyFunctionalInterfaceTest.executor": "Run",
+    "Application.NSLookupLocal.executor": "Run",
+    "Application.ObjectStreamExam.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.PhoneBookExample.executor": "Run",
+    "Application.ReadFile.executor": "Run",
+    "Application.RobotMain.executor": "Run",
+    "Application.RunnableExam.executor": "Run",
+    "Application.ThreadExam.executor": "Run",
+    "Application.WWWRead.executor": "Run",
+    "Application.WinChatClient.executor": "Run",
+    "Application.day0426.ChatClient.executor": "Run",
+    "Application.day0426.ChatServer.executor": "Run",
+    "JUnit.day0422 in HappyJava.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "<unknown>",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/YOUNYUKYUNG/backend_school_10",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="day0418.Q1" />
+      <recent name="day0416" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.day0426.ChatServer">
+    <configuration name="ChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0423.ChatClient" />
+      <module name="HappyJava" />
+      <option name="PROGRAM_PARAMETERS" value="dodo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0423.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0423.ChatServer" />
+      <module name="HappyJava" />
+      <option name="PROGRAM_PARAMETERS" value="rere" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0423.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0425.GroupingTest" />
+      <module name="HappyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0425.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day0426.ChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0426.ChatClient" />
+      <module name="HappyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0426.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day0426.ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0426.ChatServer" />
+      <module name="HappyJava" />
+      <option name="PROGRAM_PARAMETERS" value="eke" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0426.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.day0426.ChatClient" />
+        <item itemvalue="Application.day0426.ChatServer" />
+        <item itemvalue="Application.ChatServer" />
+        <item itemvalue="Application.ChatClient" />
+        <item itemvalue="Application.GroupingTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-temurin-21.0.2-4caba194b151-7da56cdf" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02f698f8-c5fd-43e0-9ef9-56d4fa8335f8" name="Changes" comment="백엔" />
+      <created>1713141687599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713141687599</updated>
+      <workItem from="1713141689476" duration="564000" />
+      <workItem from="1713142860163" duration="2823000" />
+      <workItem from="1713227904536" duration="7571000" />
+      <workItem from="1713316543929" duration="8792000" />
+      <workItem from="1713403369447" duration="6841000" />
+      <workItem from="1713751476889" duration="5686000" />
+      <workItem from="1713769620188" duration="3002000" />
+      <workItem from="1713833007159" duration="11017000" />
+      <workItem from="1713921172622" duration="7422000" />
+      <workItem from="1714004345445" duration="67504000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="백엔" />
+    <MESSAGE value="first commit&#10;&#10;:wq" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit&#10;&#10;:wq" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day0416/PhoneBookExample.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day0417/DataTypesIOExample.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day0418/RobotMain.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day0422/EchoClient.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day0422/EchoServerExam.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day0423/WinChatClient.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day0423/ChatServer.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day0426/ChatClient.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.FileNotFoundException" package="java.io" />
+          <option name="timeStamp" value="7" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
