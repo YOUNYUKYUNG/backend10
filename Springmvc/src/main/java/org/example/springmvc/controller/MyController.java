@@ -15,7 +15,7 @@ public class MyController {
 
     @RequestMapping(value = "/about", method = RequestMethod.GET)
     public String about(){
-        return "a";
+        return "about";
     }
 
     @GetMapping("/contact")
@@ -41,33 +41,33 @@ public class MyController {
 //        return "greeting";
 //    }
 
-//    @GetMapping("greeting")
-//    public String greet(
-//            @RequestParam String name,
-//            @RequestParam(name="age", required = false, defaultValue = "10")int age,Model model){
-//        //http://localhost:8888/greeting?abc=carami
-//        //?name=carami&age=20 쿼리문자열
-//        System.out.println(name);
-//        System.out.println(age);
-//
-//        model.addAttribute("name",name);
-//
-//        //이때 얻은 값을..  서비스
-//
-//        return "greeting";
-//    }
-
-    @PostMapping("greeting")
-    public ModelAndView greet(@RequestParam String name, ModelAndView modelAndView){
+    @GetMapping("greeting")
+    public String greet(
+            @RequestParam String name,
+            @RequestParam(name="age", required = false, defaultValue = "10")int age,Model model){
         //http://localhost:8888/greeting?abc=carami
         //?name=carami&age=20 쿼리문자열
         System.out.println(name);
+        System.out.println(age);
 
-        modelAndView.addObject("name",name);
-        modelAndView.setViewName("greeting");
+        model.addAttribute("name",name);
 
-//        request.setAttribute("name",name);
+        //이때 얻은 값을..  서비스
 
-        return modelAndView;
+        return "greeting";
     }
+//
+//    @PostMapping("greeting")
+//    public ModelAndView greet(@RequestParam String name, ModelAndView modelAndView){
+//        //http://localhost:8888/greeting?abc=carami
+//        //?name=carami&age=20 쿼리문자열
+//        System.out.println(name);
+//
+//        modelAndView.addObject("name",name);
+//        modelAndView.setViewName("greeting");
+//
+////        request.setAttribute("name",name);
+//
+//        return modelAndView;
+//    }
 }

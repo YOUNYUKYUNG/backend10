@@ -7,5 +7,10 @@ spring:
     encoding: UTF-8
     cache-duration: 0
 
+
+
 server:
-    port: 8888
+  port: 8080
+  error:
+    whitelabel:
+      enabled: false

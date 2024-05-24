@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>친구 목록</title>
+</head>
+<body>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>이름</th>
+        <th>이메일</th>
+    </tr>
+    <tr th:each="friend : ${friendList}">
+        <td th:text="${friend.id}"></td>
+        <td th:text="${friend.name}"></td>
+        <td th:text="${friend.email}"></td>
+    </tr>
+</table>
+
+<br>
+
+<button onclick="location.href='/registerForm'">친구 등록</button>
+<button onclick="location.href='/friendEdit'">친구 정보 수정</button>
+</body>
+</html>
