@@ -5,34 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="840c5952-bba4-4694-913b-7edc1460dd1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/InputExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/MaxValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/Multi99Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/Pen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/ConpareArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/DuplicateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/EfficientPrimeFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/InvertArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/ListPrimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/MaxOfScores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/RadixConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch04/MethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch04/RecursiveTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch01/MaxValueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch01/PenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tddexam/src/main/java/com/example/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tddexam/src/main/java/com/example/DateCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tddexam/src/main/java/com/example/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tddexam/src/test/java/com/example/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tddexam/src/test/java/com/example/DateCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tddexam/src/test/java/com/example/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tddexam11/src/main/java/org/example/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tddexam11/src/main/java/org/example/DateCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tddexam11/src/main/java/org/example/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tddexam11/src/main/java/org/example/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tddexam11/src/test/java/org/example/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tddexam11/src/test/java/org/example/DateCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/Median.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/PenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/CompareArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/DecimalToBinaryExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/HealthCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/ListPrimes2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/MaxOfWeightsRand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/OptimizedPrimeFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/SumOfArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/TwoDimensionalArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch02/TwoDimensionalArrayInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch03/ArrayBinarySearchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch03/BinarySearchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch03/BodyExamSearchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch03/LinearSearchSentinel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch03/SearchExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch04/FixedLengthQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch04/FixedLengthStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch04/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch04/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch05/FactorialCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch05/GCDCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch05/IterativeExploration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch05/RecursiveExploration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch01/Multi99Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch01/Multi99Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch01/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch01/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch02/ConpareArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch02/DuplicateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch02/DuplicateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch02/EfficientPrimeFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch02/EfficientPrimeFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch02/InvertArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch02/InvertArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch02/ListPrimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch02/ListPrimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch02/MaxOfScores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch02/MaxOfScores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch02/RadixConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch02/RadixConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch04/MethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch05/MethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch04/RecursiveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch05/RecursiveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ch01/MaxValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ch01/MaxValueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatajpa/myapp.log" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatajpa/myapp.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tddexam/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../tddexam/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tddexam/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tddexam/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tddexam/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tddexam/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tddexam/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tddexam/.idea/tddexam.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tddexam/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tddexam/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +65,23 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="algorithmTest" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -54,12 +92,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "YOUNYUKYUNG"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YOUNYUKYUNG&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -72,38 +110,42 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2dsxROOA2IgRrVYrlahSor1X71F" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.DuplicateArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InputExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InvertArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxOfScores.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MaxValue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multi99Table.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PenTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RadixConverter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/YOUNYUKYUNG/backend_school_10/algorithmTest/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DuplicateArray.executor": "Run",
+    "Application.InputExample.executor": "Run",
+    "Application.InvertArray.executor": "Run",
+    "Application.MaxOfScores.executor": "Debug",
+    "Application.MaxValue.executor": "Run",
+    "Application.Multi99Table.executor": "Run",
+    "Application.PenTest.executor": "Run",
+    "Application.RadixConverter.executor": "Run",
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/YOUNYUKYUNG/backend_school_10/algorithmTest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/YOUNYUKYUNG/backend_school_10/algorithmTest/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.RadixConverter">
     <configuration name="DuplicateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch02.DuplicateArray" />
@@ -200,6 +242,7 @@
       <workItem from="1710994703550" duration="2618000" />
       <workItem from="1711343152621" duration="633000" />
       <workItem from="1711368059018" duration="1089000" />
+      <workItem from="1717133493032" duration="663000" />
     </task>
     <servers />
   </component>
@@ -220,8 +263,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ch02/MaxOfScores.java</url>
-          <line>16</line>
-          <properties class="ch02.MaxOfScores" method="main">
+          <line>22</line>
+          <properties class="ch02.MaxOfScores">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

@@ -3,12 +3,24 @@ package ch02;
 import java.util.Scanner;
 
 public class RadixConverter {
+
+    //--- 정수 x를 r진법으로 변환하여 d 배열에 저장하고 자릿수를 반환 ---//
     static int convertToRadix(int x, int radix, char[] d) {
+        int digits = 0;
         String digitChars = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
+        do {
+            d[digits++]=digitChars.charAt(x % radix);
+            x /= radix;
+        }while (x != 0);
 
+        for(int i = 0; i < digits /2; i++) {
+            char temp = d[i];
+            d[i] = d[digits - i -1];
+            d[digits - i -1] =temp;
+        }
 
-        return  0;
+        return  digits;  //리턴값은 자릿수 입니다.^^    자릿수를 왜 반환해야 할까요??
     }
 
     public static void main(String[] args) {
@@ -42,4 +54,5 @@ public class RadixConverter {
             retry = input.nextInt();
         } while (retry == 1);
     }
+
 }

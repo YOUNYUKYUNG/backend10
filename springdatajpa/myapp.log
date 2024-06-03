@@ -2165,3 +2165,520 @@ Caused by: org.hibernate.query.sqm.PathElementException: Could not resolve attri
 2024-05-31 14:04:54 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
 2024-05-31 14:04:54 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
 2024-05-31 14:04:54 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-05-31 14:13:32 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [org.example.springdatajpa.UserRepoTest]: UserRepoTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-05-31 14:13:32 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration org.example.springdatajpa.SpringdatajpaApplication for test class org.example.springdatajpa.UserRepoTest
+2024-05-31 14:13:33 [main] INFO  o.example.springdatajpa.UserRepoTest - Starting UserRepoTest using Java 21.0.2 with PID 1980 (started by YOUNYUKYUNG in C:\Users\YOUNYUKYUNG\backend_school_10\springdatajpa)
+2024-05-31 14:13:33 [main] INFO  o.example.springdatajpa.UserRepoTest - No active profile set, falling back to 1 default profile: "default"
+2024-05-31 14:13:33 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-31 14:13:33 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 38 ms. Found 1 JPA repository interface.
+2024-05-31 14:13:33 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-31 14:13:33 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-31 14:13:33 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-05-31 14:13:34 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-31 14:13:34 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-05-31 14:13:34 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1f39269d
+2024-05-31 14:13:34 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-05-31 14:13:35 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-31 14:13:35 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-31 14:13:35 [main] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-31 14:13:35 [main] INFO  o.example.springdatajpa.UserRepoTest - Started UserRepoTest in 2.935 seconds (process running for 3.766)
+2024-05-31 14:13:36 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-31 14:13:36 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-05-31 14:13:36 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-05-31 14:14:02 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [org.example.springdatajpa.UserRepositoryTest]: UserRepositoryTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-05-31 14:14:02 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration org.example.springdatajpa.SpringdatajpaApplication for test class org.example.springdatajpa.UserRepositoryTest
+2024-05-31 14:14:03 [main] INFO  o.e.springdatajpa.UserRepositoryTest - Starting UserRepositoryTest using Java 21.0.2 with PID 13672 (started by YOUNYUKYUNG in C:\Users\YOUNYUKYUNG\backend_school_10\springdatajpa)
+2024-05-31 14:14:03 [main] INFO  o.e.springdatajpa.UserRepositoryTest - No active profile set, falling back to 1 default profile: "default"
+2024-05-31 14:14:03 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-31 14:14:03 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 32 ms. Found 1 JPA repository interface.
+2024-05-31 14:14:03 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-31 14:14:03 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-31 14:14:03 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-05-31 14:14:04 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-31 14:14:04 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-05-31 14:14:04 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2b9b17ce
+2024-05-31 14:14:04 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-05-31 14:14:05 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-31 14:14:05 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-31 14:14:05 [main] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-31 14:14:06 [main] INFO  o.e.springdatajpa.UserRepositoryTest - Started UserRepositoryTest in 3.15 seconds (process running for 4.046)
+2024-05-31 14:14:06 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-31 14:14:06 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-05-31 14:14:06 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-05-31 15:30:31 [main] INFO  o.example.springdatajpa4.Application - Starting Application using Java 21.0.2 with PID 12820 (C:\Users\YOUNYUKYUNG\backend_school_10\springdatajpa\out\production\classes started by YOUNYUKYUNG in C:\Users\YOUNYUKYUNG\backend_school_10\springdatajpa)
+2024-05-31 15:30:31 [main] INFO  o.example.springdatajpa4.Application - No active profile set, falling back to 1 default profile: "default"
+2024-05-31 15:30:31 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-31 15:30:31 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 37 ms. Found 1 JPA repository interface.
+2024-05-31 15:30:31 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-31 15:30:31 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-31 15:30:32 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-05-31 15:30:32 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-31 15:30:32 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-05-31 15:30:32 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3ccb12d
+2024-05-31 15:30:32 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-05-31 15:30:32 [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): org.example.springdatajpa4.JobHistory
+2024-05-31 15:30:32 [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): org.example.springdatajpa4.JobHistory
+2024-05-31 15:30:33 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-31 15:30:33 [main] WARN  o.h.t.s.i.ExceptionHandlerLoggedImpl - GenerationTarget encountered exception accepting command : Error executing DDL "alter table countries modify column country_id varchar(255) not null" via JDBC [Cannot change column 'country_id': used in a foreign key constraint 'locations_ibfk_1' of table 'hr.locations']
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "alter table countries modify column country_id varchar(255) not null" via JDBC [Cannot change column 'country_id': used in a foreign key constraint 'locations_ibfk_1' of table 'hr.locations']
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:94)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlString(AbstractSchemaMigrator.java:575)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlStrings(AbstractSchemaMigrator.java:515)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.migrateTable(AbstractSchemaMigrator.java:333)
+	at org.hibernate.tool.schema.internal.GroupedSchemaMigratorImpl.performTablesMigration(GroupedSchemaMigratorImpl.java:84)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.performMigration(AbstractSchemaMigrator.java:232)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:117)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:280)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.lambda$process$5(SchemaManagementToolCoordinator.java:144)
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:141)
+	at org.hibernate.boot.internal.SessionFactoryObserverForSchemaExport.sessionFactoryCreated(SessionFactoryObserverForSchemaExport.java:37)
+	at org.hibernate.internal.SessionFactoryObserverChain.sessionFactoryCreated(SessionFactoryObserverChain.java:35)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:322)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:457)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1506)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:75)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1835)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1784)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:952)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352)
+	at org.example.springdatajpa4.Application.main(Application.java:17)
+Caused by: java.sql.SQLException: Cannot change column 'country_id': used in a foreign key constraint 'locations_ibfk_1' of table 'hr.locations'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:130)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:770)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:653)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:80)
+	... 36 common frames omitted
+2024-05-31 15:30:34 [main] WARN  o.h.t.s.i.ExceptionHandlerLoggedImpl - GenerationTarget encountered exception accepting command : Error executing DDL "alter table employees modify column job_id varchar(255)" via JDBC [Cannot change column 'job_id': used in a foreign key constraint 'employees_ibfk_1']
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "alter table employees modify column job_id varchar(255)" via JDBC [Cannot change column 'job_id': used in a foreign key constraint 'employees_ibfk_1']
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:94)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlString(AbstractSchemaMigrator.java:575)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlStrings(AbstractSchemaMigrator.java:515)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.migrateTable(AbstractSchemaMigrator.java:333)
+	at org.hibernate.tool.schema.internal.GroupedSchemaMigratorImpl.performTablesMigration(GroupedSchemaMigratorImpl.java:84)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.performMigration(AbstractSchemaMigrator.java:232)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:117)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:280)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.lambda$process$5(SchemaManagementToolCoordinator.java:144)
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:141)
+	at org.hibernate.boot.internal.SessionFactoryObserverForSchemaExport.sessionFactoryCreated(SessionFactoryObserverForSchemaExport.java:37)
+	at org.hibernate.internal.SessionFactoryObserverChain.sessionFactoryCreated(SessionFactoryObserverChain.java:35)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:322)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:457)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1506)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:75)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1835)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1784)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:952)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352)
+	at org.example.springdatajpa4.Application.main(Application.java:17)
+Caused by: java.sql.SQLException: Cannot change column 'job_id': used in a foreign key constraint 'employees_ibfk_1'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:130)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:770)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:653)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:80)
+	... 36 common frames omitted
+2024-05-31 15:30:34 [main] WARN  o.h.t.s.i.ExceptionHandlerLoggedImpl - GenerationTarget encountered exception accepting command : Error executing DDL "alter table job_history modify column job_id varchar(255)" via JDBC [Cannot change column 'job_id': used in a foreign key constraint 'job_history_ibfk_2']
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "alter table job_history modify column job_id varchar(255)" via JDBC [Cannot change column 'job_id': used in a foreign key constraint 'job_history_ibfk_2']
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:94)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlString(AbstractSchemaMigrator.java:575)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlStrings(AbstractSchemaMigrator.java:515)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.migrateTable(AbstractSchemaMigrator.java:333)
+	at org.hibernate.tool.schema.internal.GroupedSchemaMigratorImpl.performTablesMigration(GroupedSchemaMigratorImpl.java:84)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.performMigration(AbstractSchemaMigrator.java:232)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:117)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:280)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.lambda$process$5(SchemaManagementToolCoordinator.java:144)
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:141)
+	at org.hibernate.boot.internal.SessionFactoryObserverForSchemaExport.sessionFactoryCreated(SessionFactoryObserverForSchemaExport.java:37)
+	at org.hibernate.internal.SessionFactoryObserverChain.sessionFactoryCreated(SessionFactoryObserverChain.java:35)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:322)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:457)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1506)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:75)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1835)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1784)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:952)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352)
+	at org.example.springdatajpa4.Application.main(Application.java:17)
+Caused by: java.sql.SQLException: Cannot change column 'job_id': used in a foreign key constraint 'job_history_ibfk_2'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:130)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:770)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:653)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:80)
+	... 36 common frames omitted
+2024-05-31 15:30:34 [main] WARN  o.h.t.s.i.ExceptionHandlerLoggedImpl - GenerationTarget encountered exception accepting command : Error executing DDL "alter table jobs modify column job_id varchar(255) not null" via JDBC [Cannot change column 'job_id': used in a foreign key constraint 'employees_ibfk_1' of table 'hr.employees']
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "alter table jobs modify column job_id varchar(255) not null" via JDBC [Cannot change column 'job_id': used in a foreign key constraint 'employees_ibfk_1' of table 'hr.employees']
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:94)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlString(AbstractSchemaMigrator.java:575)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlStrings(AbstractSchemaMigrator.java:515)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.migrateTable(AbstractSchemaMigrator.java:333)
+	at org.hibernate.tool.schema.internal.GroupedSchemaMigratorImpl.performTablesMigration(GroupedSchemaMigratorImpl.java:84)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.performMigration(AbstractSchemaMigrator.java:232)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:117)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:280)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.lambda$process$5(SchemaManagementToolCoordinator.java:144)
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:141)
+	at org.hibernate.boot.internal.SessionFactoryObserverForSchemaExport.sessionFactoryCreated(SessionFactoryObserverForSchemaExport.java:37)
+	at org.hibernate.internal.SessionFactoryObserverChain.sessionFactoryCreated(SessionFactoryObserverChain.java:35)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:322)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:457)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1506)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:75)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1835)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1784)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:952)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352)
+	at org.example.springdatajpa4.Application.main(Application.java:17)
+Caused by: java.sql.SQLException: Cannot change column 'job_id': used in a foreign key constraint 'employees_ibfk_1' of table 'hr.employees'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:130)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:770)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:653)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:80)
+	... 36 common frames omitted
+2024-05-31 15:30:34 [main] WARN  o.h.t.s.i.ExceptionHandlerLoggedImpl - GenerationTarget encountered exception accepting command : Error executing DDL "alter table locations modify column country_id varchar(255)" via JDBC [Cannot change column 'country_id': used in a foreign key constraint 'locations_ibfk_1']
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "alter table locations modify column country_id varchar(255)" via JDBC [Cannot change column 'country_id': used in a foreign key constraint 'locations_ibfk_1']
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:94)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlString(AbstractSchemaMigrator.java:575)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlStrings(AbstractSchemaMigrator.java:515)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.migrateTable(AbstractSchemaMigrator.java:333)
+	at org.hibernate.tool.schema.internal.GroupedSchemaMigratorImpl.performTablesMigration(GroupedSchemaMigratorImpl.java:84)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.performMigration(AbstractSchemaMigrator.java:232)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:117)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:280)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.lambda$process$5(SchemaManagementToolCoordinator.java:144)
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:141)
+	at org.hibernate.boot.internal.SessionFactoryObserverForSchemaExport.sessionFactoryCreated(SessionFactoryObserverForSchemaExport.java:37)
+	at org.hibernate.internal.SessionFactoryObserverChain.sessionFactoryCreated(SessionFactoryObserverChain.java:35)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:322)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:457)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1506)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:75)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1835)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1784)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:952)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352)
+	at org.example.springdatajpa4.Application.main(Application.java:17)
+Caused by: java.sql.SQLException: Cannot change column 'country_id': used in a foreign key constraint 'locations_ibfk_1'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:130)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:770)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:653)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:80)
+	... 36 common frames omitted
+2024-05-31 15:30:34 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - Started Application in 4.073 seconds (process running for 4.667)
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - Employees with last name 'Doe':
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - Employees with salary greater than or equal to 55000:
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - Employee with employee ID 1:
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - Employees with salary less than 5000.0 or greater than 10000.0:
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1828ab51
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1d6dc2b8
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@8de8b07
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@6b64921f
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@55a2f08b
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@66d73e2d
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@36ae17ef
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@4b2af0eb
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@543a7605
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@eda7dd3
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@4dc16fc9
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@613ba54e
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1ee126de
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@705dc1a6
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@208b8425
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1fe2c5ad
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@48224381
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@193c3b1c
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@3f04fb07
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@267e0ca0
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@ce8b59e
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1a22325d
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@432b883
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@43414b88
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@24fb8317
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@89ff043
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@4e9d203e
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@7621c3f7
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@3d8b9dee
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@386ea60f
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@7ec176da
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@55ff64fd
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@9d2c0ed
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@7207f3c2
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@272f5373
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@2c6d442d
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@13cc3984
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@47bbf44d
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@580e01cd
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@2370c90
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@2e60d4f4
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@61627c9d
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@38326fd5
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@2512155e
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@45a4587d
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@402d76c7
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@3b9c05f
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@4645a575
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@3ca5da54
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@16e3d6d0
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@2bf0bb93
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@4c1fed69
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@38ae69f7
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@949f0d
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@154208f2
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@4198921f
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@33a58fcb
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@434a72f2
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@6c056020
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@3733b1f4
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@743b7025
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@159a0f0e
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@6889e714
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1c80f8dd
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - Employees hired between 2018-01-01 and 2021-01-01:
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - Employees in departments 1 and 2:
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - Employees in department 1 with salary between 2900 and 3100:
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - Employees with no manager:
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@42fb2be9
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - Employees with a manager:
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1e9b0c92
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@26619e5
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@26723525
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@267a8777
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@411576c7
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@795e8ef5
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@80b70fd
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@2eb91767
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@17f7a1af
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@73a88711
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@6b7e4db6
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@2ef63b6d
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@fbdba1c
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@7bbd944e
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@28d1b2f
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@5134a7d6
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@690c3b1f
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@2835b3d1
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@4a00d591
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@3338d29d
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@2a6871ad
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@35d145fb
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@4e312811
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@32182bf8
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@4402ed61
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@6d6ddeb5
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@218fc40d
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@2ebd6a0d
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@99948fe
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@4e8b36af
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@37823482
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@501b15b9
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@4f579582
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@16a14076
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@2786b644
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@7d76d72a
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@45649467
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@5cd2adc7
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@27caa186
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@3ba015b1
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@4d529dbf
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1c0a143
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@38991781
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@729de0e1
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1f4de96e
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@3ba50851
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@4def900a
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@726dd367
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@58cd6088
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@3305897c
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@28ffa527
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@54d9b23a
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@3e729d46
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@47d0195b
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@18ed9480
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@309b8144
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@706c2726
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@641255d1
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@53086bdc
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@3829306d
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@2db4a84a
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@7b6b8cea
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@6d5fea64
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@5418a659
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@362e6fe
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@7cf166db
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1d0acb8f
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@2f3565c0
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@687d31a9
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@29811d4d
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@e30a8ef
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@34074149
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1b83fac3
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@28d37d43
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@29ebaf2f
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@609edb55
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@3533d790
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1a3a6216
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@dc24732
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@6ab6ec33
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@78839c2e
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1c96bf1e
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@402fdef1
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@36bd07ec
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@2b6a4da7
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@7e484bd
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@341141ab
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@30f99ca1
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1d5fc340
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@d8751de
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@360e4235
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@cbaabfb
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1d01fa0c
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@55b78dad
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@738153d8
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@6db2a260
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@78723798
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@6fc03cf6
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@5b5d6f9c
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@56b66cc6
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1dfd6023
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@5d00e30e
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@6600d07d
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@6c38f4de
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@aaf4375
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1c000c2f
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - Employees with commission percentage not null, ordered by salary desc and commission percentage desc:
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@df5f657
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@487ee2a
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@175745fc
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@62ff3028
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@24d7c365
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@4fe9fb65
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@722d3ddb
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@6debf1b8
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@623a891d
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@134ec0f3
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@3d0ce151
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1b84d03d
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1964ef9
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@4a778943
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@240e61
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@44c54463
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@7151dd9d
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@1bcdd302
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@41041c31
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@6939f18a
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@2eb0932c
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@d8a2b1b
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@4f9e9c21
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@e75bae7
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@4f2b1a2f
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@44ba9f25
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@3c7787a7
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@46f041cb
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@3358805a
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@93c66ef
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@258291de
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@679886ad
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@77d42ed7
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@23307c6c
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@133d0471
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - Employees with last name starting with 'Do':
+2024-05-31 15:30:35 [main] INFO  o.example.springdatajpa4.Application - org.example.springdatajpa4.Employee@5694f6a0
+2024-05-31 15:30:35 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-31 15:30:35 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-05-31 15:30:35 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
