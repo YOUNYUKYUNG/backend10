@@ -15,7 +15,6 @@ import java.util.Optional;
 public class TodoService {
     private final TodoRepository todoRepository;
 
-
     @Transactional(readOnly = true)
     public List<Todo> getTodos(){
         return todoRepository.findAll(Sort.by("id").descending());
@@ -32,7 +31,7 @@ public class TodoService {
     }
 
     @Transactional
-    public Todo updateTodo(Long id){//id 값에 해당하는 done을 토글하도록
+    public Todo updateTodo(Long id){  //id 값에 해당하는 done 을 토글하도록.
         Todo updateTodo=null;
         try{
             updateTodo = todoRepository.findById(id).orElseThrow();
@@ -44,18 +43,17 @@ public class TodoService {
     }
 
     @Transactional
-    public Todo updateTodo(Todo todo) {//id에 해당하는 todo 정보를 바꾸고 싶어요.
+    public Todo updateTodo(Todo todo){  //id에 해당하는 todo 정보를 바꾸고 싶어요.
         Todo updateTodo = null;
-        try {
+        try{
             updateTodo = todoRepository.save(todo);
-        } catch (Exception e) {
-            e.printStackTrace();
-
-        }
+        }catch (Exception e){
+            e.printStackTrace();        }
         return updateTodo;
     }
 
-    public void deleteTodo(Long id){//id에 해당하는 todo 삭제
+    @Transactional
+    public void deleteTodo(Long id){ //id에 해당하는 todo 삭제
         Optional<Todo> findTodo = todoRepository.findById(id);
         if(findTodo.isEmpty())
             return;

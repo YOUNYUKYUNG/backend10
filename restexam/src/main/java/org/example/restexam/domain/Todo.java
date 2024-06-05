@@ -12,12 +12,11 @@ import lombok.ToString;
 @Setter
 @NoArgsConstructor
 @ToString
-
 public class Todo {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    private  String todo;
+    private String todo;
     private boolean done;
 
     public Todo(String todo) {
