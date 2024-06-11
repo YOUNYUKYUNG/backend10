@@ -1,7 +1,7 @@
 package org.example.todoapp.controller;
 
 import org.example.todoapp.entity.User;
-import org.example.todoapp.entity.UserService;
+import org.example.todoapp.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

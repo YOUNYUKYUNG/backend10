@@ -1,5 +1,6 @@
-package org.example.todoapp.entity;
+package org.example.todoapp.service;
 
+import org.example.todoapp.entity.User;
 import org.example.todoapp.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
