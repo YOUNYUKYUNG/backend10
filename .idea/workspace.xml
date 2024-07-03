@@ -5,91 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ed1ca42-aeba-4947-841e-8f67eee76be2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/org/example/todo/controller/TodoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/org/example/todo/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/org/example/todo/entity/Todo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/org/example/todo/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/org/example/todo/repository/TodoRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/org/example/todo/repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/org/example/todo/service/TodoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/org/example/todo/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/test/java/org/example/todo/test.http" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.bashrc.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.gradle/8.8/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.gradle/8.8/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.gradle/8.8/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.gradle/8.8/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.gradle/8.8/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.gradle/8.8/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.gradle/8.8/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/classes/java/main/org/example/todoapp/TodoappApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/classes/java/main/org/example/todoapp/controller/TodoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/classes/java/main/org/example/todoapp/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/classes/java/main/org/example/todoapp/entity/Todo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/classes/java/main/org/example/todoapp/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/classes/java/main/org/example/todoapp/repository/TodoRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/classes/java/main/org/example/todoapp/repository/UserRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/classes/java/main/org/example/todoapp/service/TodoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/classes/java/main/org/example/todoapp/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/classes/java/test/org/example/todoapp/TodoappApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/reports/tests/test/classes/org.example.todoapp.TodoappApplicationTests.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/reports/tests/test/packages/org.example.todoapp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/resources/main/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/resources/main/static/todo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/resources/main/static/todo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/resources/main/static/todo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/test-results/test/TEST-org.example.todoapp.TodoappApplicationTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/test-results/test/binary/output.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/tmp/compileJava/compileTransaction/stash-dir/UserController.class.uniqueId0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/tmp/compileJava/compileTransaction/stash-dir/UserService.class.uniqueId1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/src/main/java/org/example/todoapp/TodoappApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/src/main/java/org/example/todoapp/controller/TodoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/src/main/java/org/example/todoapp/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/src/main/java/org/example/todoapp/entity/Todo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/src/main/java/org/example/todoapp/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/src/main/java/org/example/todoapp/repository/TodoRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/src/main/java/org/example/todoapp/repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/src/main/java/org/example/todoapp/service/TodoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/src/main/java/org/example/todoapp/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/src/main/resources/static/todo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/src/main/resources/static/todo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/src/main/resources/static/todo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/src/test/java/org/example/todoapp/TodoappApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/src/test/java/org/example/todoapp/test.http" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/todoapp" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/securityexam/src/main/java/org/example/jwtexam/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/securityexam/src/main/java/org/example/jwtexam/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/securityexam/src/main/java/org/example/jwtexam/domain/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/securityexam/src/main/java/org/example/jwtexam/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/securityexam/src/main/java/org/example/jwtexam/jwt/util/JwtTokenizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/securityexam/src/main/java/org/example/jwtexam/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/securityexam/src/main/java/org/example/jwtexam/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/securityexam/src/main/java/org/example/jwtexam/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/securityexam/src/main/java/org/example/jwtexam/security/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/securityexam/src/main/java/org/example/jwtexam/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securityexam/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/securityexam/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securityexam/src/main/java/org/example/zizonsecurity/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/securityexam/src/main/java/org/example/zizonsecurity/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securityexam/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/securityexam/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,21 +38,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/YOUNYUKYUNG/backend_school_10&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/YOUNYUKYUNG/backend_school_10/securityexam",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -138,6 +66,7 @@
       <workItem from="1718078000401" duration="6000" />
       <workItem from="1718329538444" duration="14000" />
       <workItem from="1718329558798" duration="8000" />
+      <workItem from="1719805807605" duration="26000" />
     </task>
     <servers />
   </component>
